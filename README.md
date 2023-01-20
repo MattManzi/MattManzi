@@ -1,3 +1,3 @@
       #MattiaManzi
     Computer scientist
-    University of study Salerno
+    University of Salerno
